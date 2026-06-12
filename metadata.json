@@ -1,0 +1,6 @@
+{
+  "name": "Sadiqi AI",
+  "description": "Intelligent personal assistant in Moroccan Darija that intercepts/analyzes notifications, structures schedules, learns daily habits, speaks aloud, and detects time-wasting behaviors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
